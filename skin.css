@@ -1,0 +1,48 @@
+.container {
+    max-width: 300px;
+    margin: 10vh auto 0 auto;
+    box-shadow: 0px 0px 43px 17px rgba(153, 153, 153, .6);
+    height: auto;
+    border:  solid silver;
+    border-right-width: 13px;
+    border-bottom-width: 10px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+
+
+}
+
+#search-box {
+    background-color: rgb(240, 238, 237);
+    height: 30px;
+    padding: 20px 10px;
+    font-size: 26px;
+}
+
+.button-div {
+    display: grid;
+    /* border:2px solid burlywood; */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: inherit;
+}
+
+.button-div>div {
+    border-top: 2px solid rgb(214, 212, 212);
+    border-right: 2px solid rgb(226, 222, 222);
+
+}
+
+.button {
+
+    text-align: center;
+    font-size: large;
+    line-height: 70px;
+    width: 73px;
+    border-radius: 20px;
+    border-color: white;
+
+}
+.button:hover
+{
+ background-color: rgb(163, 163, 163) ;
+}

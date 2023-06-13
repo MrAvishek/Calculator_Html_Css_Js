@@ -1,2 +1,2 @@
 # Calculator_Html_Css_Js
-Made this using HTML CSS and JavaScript
+Made A calculator using basic HTML CSS and JavaScript
